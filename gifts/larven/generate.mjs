@@ -42,6 +42,20 @@ const DESIGNS_ALL = [
   { id: "l26-error-404-sleep", color: "white", print: `big "404" in bold ${SANS}, Larven blue; below "SLEEP NOT FOUND" in bold ${SANS}, charcoal; small "please try again in 18 years"; below ${LARVEN}` },
   { id: "l27-loading-personality", color: "ice blue", print: `"LOADING PERSONALITY…" in bold ${SANS}, charcoal; a cute progress bar about one third filled in Larven blue with "30%"; below ${LARVEN}` },
   { id: "l28-cost-per-acquisition", color: "sky blue", print: `a small KPI card: "COST PER ACQUISITION" header in white; big "9 MONTHS" in bold ${SANS}, charcoal; small "worth every day"; below ${LARVEN}` },
+  { id: "l29-only-thing-on-time", color: "white", print: `"THE ONLY THING" in bold ${SANS}, charcoal; "LARVEN EVER LAUNCHED" and "ON TIME." in bold ${SANS}, Larven blue; below ${LARVEN}` },
+  { id: "l30-10000-ads", color: "ice blue", print: `"LARVEN GENERATED 10,000 ADS." in bold ${SANS}, charcoal; below "STILL NOT AS GOOD AS ME." in Larven blue; below ${LARVEN}` },
+  { id: "l31-couldnt-generate-me", color: "charcoal", print: `"LARVEN COULDN'T GENERATE ME." in bold ${SANS}, white; below "MOMMY HAD TO." in sky blue; tiny heart; below ${LARVEN} with the wordmark in white` },
+  { id: "l32-larven-was-down", color: "white", print: `"MADE BY HUMANS." in bold ${SANS}, charcoal; below a small red status pill "LARVEN WAS DOWN"; below ${LARVEN}` },
+  { id: "l33-zero-bugs", color: "sky blue", print: `a small release card: "OUR BEST OUTPUT:" header; "1 BABY · 0 BUGS" in bold ${SANS}, charcoal; small "first time ever"; below ${LARVEN}` },
+  { id: "l34-more-stable", color: "charcoal", print: `"MORE STABLE THAN" in bold ${SANS}, white; "OUR PRODUCTION SERVER." in sky blue; a tiny flat-line-then-spike server graph; below ${LARVEN} with the wordmark in white` },
+  { id: "l35-faster-than-render", color: "ice blue", print: `"I FINISHED RENDERING" in bold ${SANS}, charcoal; "BEFORE LARVEN DID." in Larven blue; a tiny progress bar stuck at 99%; below ${LARVEN}` },
+  { id: "l36-only-feature-no-crash", color: "white", print: `small spaced capitals "PRODUCT UPDATE" in Larven blue; "THE ONLY LARVEN FEATURE" and "THAT NEVER CRASHES." in bold ${SANS}, charcoal; below ${LARVEN}` },
+  { id: "l37-churn-zero", color: "sky blue", print: `a small KPI card: "CUSTOMER CHURN" header; big "0%" in bold ${SANS}, charcoal; small italic "(unlike Larven)"; below ${LARVEN}` },
+  { id: "l38-hallucinates-less", color: "charcoal", print: `"HALLUCINATES LESS" in bold ${SANS}, white; "THAN OUR AI." in sky blue; tiny cloud-with-question-mark doodle; below ${LARVEN} with the wordmark in white` },
+  { id: "l39-not-designed-by-larven", color: "white", print: `"THIS ONESIE WAS NOT" and "DESIGNED BY LARVEN." in bold ${SANS}, charcoal; below "YOU CAN TELL." in Larven blue; below ${LARVEN}` },
+  { id: "l40-three-hands", color: "ice blue", print: `"LARVEN TRIED" and "TO GENERATE ME." in bold ${SANS}, charcoal; below "I HAD 3 HANDS." in Larven blue; a tiny cute cartoon of three small waving hands; below ${LARVEN}` },
+  { id: "l41-still-loading", color: "charcoal", print: `a cute spinning loading-circle icon in sky blue; "STILL LOADING…" in bold ${SANS}, white; small grey "(like the Larven dashboard)"; below ${LARVEN} with the wordmark in white` },
+  { id: "l42-out-of-credits", color: "white", print: `a small red alert pill "0 CREDITS LEFT"; "RAN OUT OF CREDITS." in bold ${SANS}, charcoal; "MADE A BABY INSTEAD." in Larven blue; below ${LARVEN}` },
 ];
 
 const DESIGNS = DESIGNS_ALL.filter((d) => !ONLY.length || ONLY.includes(d.id));
