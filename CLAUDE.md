@@ -112,9 +112,12 @@ node pipeline/09-master.mjs                    # video from captions pass + audi
 5. All files (picture, mix, master) exactly the same duration.
 6. Be honest about what can't be verified (I can't listen); ask the client to review audio by ear.
 
-## 7. Delivery
+## 7. Delivery (mandatory after every completed film or version)
 
-Upload the master and a poster frame to the media bucket (`S3_BUCKET_NAME`) and file it into the client's media library. The exact, internal delivery procedure (library IDs, production script runner) is kept in the local, gitignored `CLAUDE.local.md`.
+**Always, as the last step of every completed film or revision: upload the master to Larven and file it in the library of the "Gianna Bellucci" brand in the Larven "maj" organization**, named `<Title> — short film 1:30 (vN)`, with a poster frame. Don't wait to be asked. A version isn't delivered until it's in that library.
+
+
+How: upload the master and a poster frame to the media bucket (`S3_BUCKET_NAME`) and file it into the client's media library. The exact, internal delivery procedure (library IDs, production script runner) is kept in the local, gitignored `CLAUDE.local.md`.
 
 ## 8. Merch and gift mockups (`gifts/`)
 
