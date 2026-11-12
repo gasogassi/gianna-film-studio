@@ -28,6 +28,20 @@ const DESIGNS_ALL = [
   { id: "l12-render-complete", color: "white", print: `a cute rendering progress bar fully filled in Larven blue gradient with "100%" at the end; above it "RENDER COMPLETE" in bold ${SANS}, charcoal; below small "output: 1 × KAN"; below ${LARVEN}` },
   { id: "l13-ad-spend-diapers", color: "charcoal", print: `a small budget card UI: "AD SPEND" header in sky blue; a pie chart that is 100% blue labelled "DIAPERS"; text in white ${SANS}; below ${LARVEN} with the wordmark in white` },
   { id: "l14-made-the-ad", color: "white", print: `"LARVEN MADE THE AD." in bold ${SANS}, charcoal; below "MOMMY MADE THE PRODUCT." in Larven blue; tiny heart; below ${LARVEN}` },
+  { id: "l15-currently-in-beta", color: "white", print: `a small rounded pill badge "BETA" in Larven blue; large "CURRENTLY IN BETA" in bold ${SANS}, charcoal; small "expect bugs. and crying."; below ${LARVEN}` },
+  { id: "l16-v1-known-bugs", color: "ice blue", print: `"VERSION 1.0" in bold ${SANS}, charcoal; below a small release-notes box: "KNOWN BUGS:" and "• sleep schedule" and "• 3 AM crashes"; below ${LARVEN}` },
+  { id: "l17-free-trial-ended", color: "charcoal", print: `"FREE TRIAL ENDED." in bold ${SANS}, white; below "SUBSCRIPTION: FOREVER." in sky blue; a tiny credit-card doodle; below ${LARVEN} with the wordmark in white` },
+  { id: "l18-enterprise-pricing", color: "white", print: `a cute pricing-table card: header "ENTERPRISE PLAN" in Larven blue, price "$ PRICELESS", a button "CONTACT SALES (MOMMY)"; text in charcoal ${SANS}; below ${LARVEN}` },
+  { id: "l19-uptime", color: "sky blue", print: `a small status-page style bar of green and red ticks; "UPTIME:" and "3 HOURS AT A TIME" in bold ${SANS}, charcoal; below ${LARVEN}` },
+  { id: "l20-powered-by-milk", color: "white", print: `a badge styled like a tech "Powered by" badge: a tiny milk bottle icon and "POWERED BY MILK" in bold ${SANS}, charcoal, inside a rounded outline with a Larven-blue lightning bolt; below ${LARVEN}` },
+  { id: "l21-human-in-the-loop", color: "ice blue", print: `a small loop arrow diagram in Larven blue; "HUMAN IN THE LOOP:" in bold ${SANS}, charcoal; below "DADDY." in Larven blue; below ${LARVEN}` },
+  { id: "l22-fine-tuned", color: "charcoal", print: `"FINE-TUNED BY" in bold ${SANS}, white; below "MOMMY & DADDY" in sky blue; tiny slider-controls doodle; below ${LARVEN} with the wordmark in white` },
+  { id: "l23-viral-since-day-one", color: "white", print: `a cute social video card with a play button and "1.2M VIEWS" and small grey "(mostly grandma)"; above it "VIRAL SINCE DAY 1" in bold ${SANS}, charcoal; below ${LARVEN}` },
+  { id: "l24-cute-through-rate", color: "sky blue", print: `small spaced capitals "CTR" in white; large "CUTE-THROUGH RATE:" and "100%" in bold ${SANS}, charcoal; tiny upward arrow; below ${LARVEN}` },
+  { id: "l25-nightly-active-user", color: "charcoal", print: `"DAILY ACTIVE USER." in bold ${SANS}, white; below "NIGHTLY ACTIVE USER." in sky blue; tiny moon and stars; below ${LARVEN} with the wordmark in white` },
+  { id: "l26-error-404-sleep", color: "white", print: `big "404" in bold ${SANS}, Larven blue; below "SLEEP NOT FOUND" in bold ${SANS}, charcoal; small "please try again in 18 years"; below ${LARVEN}` },
+  { id: "l27-loading-personality", color: "ice blue", print: `"LOADING PERSONALITY…" in bold ${SANS}, charcoal; a cute progress bar about one third filled in Larven blue with "30%"; below ${LARVEN}` },
+  { id: "l28-cost-per-acquisition", color: "sky blue", print: `a small KPI card: "COST PER ACQUISITION" header in white; big "9 MONTHS" in bold ${SANS}, charcoal; small "worth every day"; below ${LARVEN}` },
 ];
 
 const DESIGNS = DESIGNS_ALL.filter((d) => !ONLY.length || ONLY.includes(d.id));
