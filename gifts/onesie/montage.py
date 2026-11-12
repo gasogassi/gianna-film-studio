@@ -34,7 +34,7 @@ f_sub = ImageFont.truetype(avenir, 34, index=0)
 
 logo = Image.open(logo_png).convert("RGBA")
 bbox = logo.getbbox(); logo = logo.crop(bbox)
-lw = 1100; logo = logo.resize((lw, int(logo.height * lw / logo.width)), Image.LANCZOS)
+lw = spec.get("logoWidth", 1100) if spec else 1100; logo = logo.resize((lw, int(logo.height * lw / logo.width)), Image.LANCZOS)
 canvas.paste(logo, ((W - lw) // 2, 95), logo)
 sub = spec["subtitle"] if spec else "Baby onesie ideas for KAN  ·  gift from the Gianna Bellucci team"
 tw = d.textlength(sub, font=f_sub)
