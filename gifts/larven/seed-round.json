@@ -1,0 +1,39 @@
+{
+ "cols": 4,
+ "logoWidth": 520,
+ "subtitle": "Seed round: successful  \u00b7  8 variations  \u00b7  for KAN, from the Larven team",
+ "items": [
+  [
+   "sr01-seed-round-classic.png",
+   "Classic"
+  ],
+  [
+   "sr02-seed-round-seedling.png",
+   "With a seedling"
+  ],
+  [
+   "sr03-term-sheet.png",
+   "Term sheet"
+  ],
+  [
+   "sr04-breaking-news.png",
+   "Breaking news"
+  ],
+  [
+   "sr05-cap-table.png",
+   "Cap table"
+  ],
+  [
+   "sr06-seed-round-closed.png",
+   "Seed round closed"
+  ],
+  [
+   "sr07-fully-funded.png",
+   "100% funded"
+  ],
+  [
+   "sr08-oversubscribed.png",
+   "Oversubscribed"
+  ]
+ ]
+}
