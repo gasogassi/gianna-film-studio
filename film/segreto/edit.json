@@ -1,0 +1,465 @@
+{
+  "clipDir": "segreto/clips",
+  "fps": 24,
+  "duration": 90,
+  "picture": [
+    {
+      "track": "V1",
+      "shot": "N01",
+      "act": "act1",
+      "at": 0,
+      "in": 0.3,
+      "dur": 3.8,
+      "pushTo": 0.015,
+      "note": "hook; NV01 starts under the pacing"
+    },
+    {
+      "track": "V1",
+      "shot": "N02",
+      "act": "act1",
+      "at": 3.8,
+      "in": 0.3,
+      "dur": 4.6,
+      "note": "mirror #1 (rhymes with N11); NV02 on the toss"
+    },
+    {
+      "track": "V1",
+      "shot": "N03",
+      "act": "act1",
+      "at": 8.4,
+      "in": 0.57,
+      "dur": 5.35,
+      "note": "door creak J-cuts in; Rosa's entrance line"
+    },
+    {
+      "track": "V1",
+      "shot": "N04",
+      "act": "act1",
+      "at": 13.75,
+      "in": 0.96,
+      "dur": 4.2
+    },
+    {
+      "track": "V1",
+      "shot": "N04b",
+      "act": "act1",
+      "at": 17.95,
+      "in": 1.32,
+      "dur": 3.6,
+      "note": "'You want the secret?' — hold the beat"
+    },
+    {
+      "track": "V2",
+      "shot": "N05",
+      "act": "act2",
+      "at": 21.55,
+      "in": 0.5,
+      "dur": 3.2,
+      "note": "drawer opens; NV03 bridges N05→N06 (L-cut)"
+    },
+    {
+      "track": "V2",
+      "shot": "N06",
+      "act": "act2",
+      "at": 24.75,
+      "in": 0.3,
+      "dur": 2.6
+    },
+    {
+      "track": "V1",
+      "shot": "N06b",
+      "act": "act2",
+      "at": 27.35,
+      "in": 2.72,
+      "dur": 2.2,
+      "note": "'NONNA!' — comedy beat, don't cut early"
+    },
+    {
+      "track": "V1",
+      "shot": "N06c",
+      "act": "act2",
+      "at": 29.55,
+      "in": 0.9,
+      "dur": 3.69
+    },
+    {
+      "track": "V1",
+      "shot": "N07",
+      "act": "act2",
+      "at": 33.24,
+      "in": 0,
+      "dur": 9.92,
+      "pushTo": 0.012,
+      "note": "the heart of the film"
+    },
+    {
+      "track": "V1",
+      "shot": "N08",
+      "act": "act2",
+      "at": 43.16,
+      "in": 1.69,
+      "dur": 3.23,
+      "note": "Lucia eye-roll cameo"
+    },
+    {
+      "track": "V1",
+      "shot": "N08b",
+      "act": "act2",
+      "at": 46.39,
+      "in": 0,
+      "dur": 4.92
+    },
+    {
+      "track": "V1",
+      "shot": "N09",
+      "act": "act2",
+      "at": 51.31,
+      "in": 1.54,
+      "dur": 6,
+      "note": "the box handover"
+    },
+    {
+      "track": "V2",
+      "shot": "N10",
+      "act": "act3",
+      "at": 57.31,
+      "in": 1,
+      "dur": 4,
+      "note": "cut on action: ribbon pull → lace macro"
+    },
+    {
+      "track": "V2",
+      "shot": "N10b",
+      "act": "act3",
+      "at": 61.31,
+      "in": 0.3,
+      "dur": 2.6
+    },
+    {
+      "track": "V1",
+      "shot": "N11",
+      "act": "act3",
+      "at": 63.91,
+      "in": 0.5,
+      "dur": 4.8,
+      "note": "mirror #2 — same framing as N02"
+    },
+    {
+      "track": "V2",
+      "shot": "N12a",
+      "act": "act3",
+      "at": 68.71,
+      "in": 0.3,
+      "dur": 2.6,
+      "note": "heels on Bari stone"
+    },
+    {
+      "track": "V1",
+      "shot": "N12b",
+      "act": "act3",
+      "at": 71.31,
+      "in": 0.5,
+      "dur": 3
+    },
+    {
+      "track": "V1",
+      "shot": "N13",
+      "act": "act3",
+      "at": 74.31,
+      "in": 1.8,
+      "dur": 5,
+      "note": "'We got it.' / 'Of course you got it.'"
+    },
+    {
+      "track": "V1",
+      "shot": "N13b",
+      "act": "act3",
+      "at": 79.31,
+      "in": 1.28,
+      "dur": 4.2,
+      "note": "'Which colour?' — punchline + laugh"
+    },
+    {
+      "track": "V2",
+      "shot": "N14",
+      "act": "act3",
+      "at": 83.51,
+      "in": 0.3,
+      "dur": 3,
+      "fadeOut": 0.6
+    },
+    {
+      "track": "V1",
+      "shot": "N15",
+      "act": "act3",
+      "at": 85.91,
+      "in": 0,
+      "dur": 4.09,
+      "fadeIn": 0.6,
+      "note": "end card plate"
+    }
+  ],
+  "sound": [
+    {
+      "track": "A1",
+      "src": "segreto/vo/NV01.wav",
+      "at": 0.5,
+      "in": 0,
+      "dur": 6.6,
+      "gain": 1,
+      "label": "NV01"
+    },
+    {
+      "track": "A1",
+      "src": "segreto/vo/NV02.wav",
+      "at": 7.2,
+      "in": 0,
+      "dur": 2.12,
+      "gain": 1,
+      "label": "NV02"
+    },
+    {
+      "track": "A1",
+      "src": "segreto/vo/NV03.wav",
+      "at": 21.95,
+      "in": 0,
+      "dur": 3.96,
+      "gain": 1,
+      "label": "NV03"
+    },
+    {
+      "track": "A1",
+      "src": "segreto/vo/NV04.wav",
+      "at": 57.91,
+      "in": 0,
+      "dur": 3.8,
+      "gain": 1,
+      "label": "NV04"
+    },
+    {
+      "track": "A1",
+      "src": "segreto/vo/NV05.wav",
+      "at": 64.91,
+      "in": 0,
+      "dur": 3.32,
+      "gain": 1,
+      "label": "NV05"
+    },
+    {
+      "track": "A1",
+      "src": "segreto/vo/NV06.wav",
+      "at": 71.71,
+      "in": 0,
+      "dur": 2.68,
+      "gain": 1,
+      "label": "NV06"
+    },
+    {
+      "track": "A1",
+      "src": "segreto/vo/NV07.wav",
+      "at": 83.81,
+      "in": 0,
+      "dur": 4.76,
+      "gain": 1,
+      "label": "NV07"
+    },
+    {
+      "track": "A2",
+      "src": "segreto/dialogue_sts/N03.rosa.wav",
+      "at": 9.29,
+      "in": 1.46,
+      "dur": 4.75,
+      "gain": 1,
+      "fadeIn": 0.04,
+      "fadeOut": 0.15,
+      "label": "N03:rosa:D01"
+    },
+    {
+      "track": "A2",
+      "src": "segreto/dialogue_sts/N04.sofia.wav",
+      "at": 14.25,
+      "in": 1.46,
+      "dur": 3.11,
+      "gain": 1,
+      "fadeIn": 0.04,
+      "fadeOut": 0.15,
+      "label": "N04:sofia:D02"
+    },
+    {
+      "track": "A2",
+      "src": "segreto/dialogue_sts/N04b.rosa.wav",
+      "at": 20.39,
+      "in": 3.76,
+      "dur": 1.39,
+      "gain": 1,
+      "fadeIn": 0.04,
+      "fadeOut": 0.15,
+      "label": "N04b:rosa:D03"
+    },
+    {
+      "track": "A2",
+      "src": "segreto/dialogue_sts/N06b.sofia.wav",
+      "at": 28.27,
+      "in": 3.64,
+      "dur": 1.15,
+      "gain": 1,
+      "fadeIn": 0.04,
+      "fadeOut": 0.15,
+      "label": "N06b:sofia:D04"
+    },
+    {
+      "track": "A2",
+      "src": "segreto/dialogue_sts/N06c.rosa.wav",
+      "at": 30.05,
+      "in": 1.4,
+      "dur": 3.09,
+      "gain": 1,
+      "fadeIn": 0.04,
+      "fadeOut": 0.15,
+      "label": "N06c:rosa:D05"
+    },
+    {
+      "track": "A2",
+      "src": "segreto/dialogue_sts/N07.rosa.wav",
+      "at": 33.24,
+      "in": 0,
+      "dur": 10.25,
+      "gain": 1,
+      "fadeIn": 0.04,
+      "fadeOut": 0.15,
+      "label": "N07:rosa:D06"
+    },
+    {
+      "track": "A2",
+      "src": "segreto/dialogue_sts/N08.lucia.wav",
+      "at": 43.89,
+      "in": 2.42,
+      "dur": 2.63,
+      "gain": 1,
+      "fadeIn": 0.04,
+      "fadeOut": 0.15,
+      "label": "N08:lucia:D07"
+    },
+    {
+      "track": "A2",
+      "src": "segreto/dialogue_sts/N08b.rosa.wav",
+      "at": 47.07,
+      "in": 0.68,
+      "dur": 4.33,
+      "gain": 1,
+      "fadeIn": 0.04,
+      "fadeOut": 0.15,
+      "label": "N08b:rosa:D08"
+    },
+    {
+      "track": "A2",
+      "src": "segreto/dialogue_sts/N09.rosa.wav",
+      "at": 51.81,
+      "in": 2.04,
+      "dur": 4.65,
+      "gain": 1,
+      "fadeIn": 0.04,
+      "fadeOut": 0.15,
+      "label": "N09:rosa:D09"
+    },
+    {
+      "track": "A2",
+      "src": "segreto/dialogue_sts/N13.sofia.wav",
+      "at": 74.81,
+      "in": 2.3,
+      "dur": 1.13,
+      "gain": 1,
+      "fadeIn": 0.04,
+      "fadeOut": 0.15,
+      "label": "N13:sofia:D10"
+    },
+    {
+      "track": "A2",
+      "src": "segreto/dialogue_sts/N13.rosa.wav",
+      "at": 76.25,
+      "in": 3.74,
+      "dur": 2.63,
+      "gain": 1,
+      "fadeIn": 0.04,
+      "fadeOut": 0.15,
+      "label": "N13:rosa:D11"
+    },
+    {
+      "track": "A2",
+      "src": "segreto/dialogue_sts/N13b.rosa.wav",
+      "at": 79.81,
+      "in": 1.78,
+      "dur": 1.33,
+      "gain": 1,
+      "fadeIn": 0.04,
+      "fadeOut": 0.15,
+      "label": "N13b:rosa:D12"
+    },
+    {
+      "track": "A3",
+      "src": "segreto/foley/SF_door_creak.wav",
+      "at": 8.03,
+      "in": 0,
+      "dur": 1.5,
+      "gain": 0.35,
+      "fadeIn": 0.02,
+      "fadeOut": 0.25,
+      "label": "SF_door_creak"
+    },
+    {
+      "track": "A3",
+      "src": "segreto/foley/SF_drawer.wav",
+      "at": 22.25,
+      "in": 0,
+      "dur": 1.6,
+      "gain": 0.4,
+      "fadeIn": 0.02,
+      "fadeOut": 0.25,
+      "label": "SF_drawer"
+    },
+    {
+      "track": "A3",
+      "src": "segreto/foley/SF_ribbon_box.wav",
+      "at": 57.31,
+      "in": 0,
+      "dur": 4,
+      "gain": 0.3,
+      "fadeIn": 0.02,
+      "fadeOut": 0.25,
+      "label": "SF_ribbon_box"
+    },
+    {
+      "track": "A3",
+      "src": "segreto/foley/SF_heels.wav",
+      "at": 68.71,
+      "in": 0,
+      "dur": 3,
+      "gain": 0.3,
+      "fadeIn": 0.02,
+      "fadeOut": 0.25,
+      "label": "SF_heels"
+    },
+    {
+      "track": "A3",
+      "src": "segreto/foley/SF_clink.wav",
+      "at": 84.81,
+      "in": 0,
+      "dur": 1,
+      "gain": 0.6,
+      "fadeIn": 0.02,
+      "fadeOut": 0.25,
+      "label": "SF_clink"
+    }
+  ],
+  "score": {
+    "src": "segreto/audio/score.mp3",
+    "at": 0,
+    "in": 0.5,
+    "dur": 90,
+    "gain": 0.11
+  },
+  "endCard": {
+    "at": 86.41,
+    "dur": 3.59
+  }
+}

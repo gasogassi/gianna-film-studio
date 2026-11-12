@@ -1,0 +1,332 @@
+{
+  "title": "Ritorno",
+  "fps": 24,
+  "width": 1080,
+  "height": 1920,
+  "style": "vertical 9:16 cinematic frame, shot on ARRI Alexa Mini LF with Cooke S4 primes, shallow depth of field, natural motivated practical lighting, Kodak 2383 film print emulation, fine 35mm grain, photorealistic, restrained European arthouse drama, no text, no watermark, no logos",
+  "grades": {
+    "act1": "cool desaturated palette, blue-teal shadows, muted skin tones, low contrast melancholy",
+    "act2": "warm late-afternoon Roman sunlight, honey and terracotta tones, gentle contrast",
+    "act3": "rich golden warm palette, glowing skin, deep reds, romantic soft highlights"
+  },
+  "characters": {
+    "giulia": "Giulia, a 32-year-old Italian woman, long dark-brown wavy hair, olive skin, warm brown eyes, natural beauty with soft features, slim build",
+    "marco": "Marco, a 34-year-old Italian man, short dark hair, neatly trimmed stubble, brown eyes, athletic build",
+    "elena": "Elena, a 55-year-old elegant Italian woman, dark hair with silver streaks in a low chignon, red lipstick, gold hoop earrings, cream silk blouse"
+  },
+  "characterSheets": {
+    "giulia": "Character reference portrait: {giulia}. Neutral expression, no makeup, plain grey t-shirt, soft window light, head and shoulders, plain light-grey studio background.",
+    "marco": "Character reference portrait: {marco}. Neutral expression, plain navy crew-neck sweater, soft window light, head and shoulders, plain light-grey studio background.",
+    "elena": "Character reference portrait: {elena}. Knowing half-smile, soft window light, head and shoulders, plain light-grey studio background."
+  },
+  "shots": [
+    {
+      "id": "S01",
+      "act": "act1",
+      "role": "A",
+      "duration": 8,
+      "audio": true,
+      "refs": [
+        "giulia"
+      ],
+      "keyframe": "Night, dark bedroom in a Milan apartment. Tight close-up of {giulia} lying awake on her side in the foreground facing camera, eyes open, still, melancholic, sharp focus. In the far background, completely out of focus, a man lies with his back turned to her, only the back of his head and shoulder visible, a faint blue phone glow on the wall beyond him. Moonlight through sheer curtains.",
+      "motion": "Very slow push-in toward her face. She blinks slowly and her eyes drift down. Behind her, the man shifts slightly in his sleep. Quiet night room tone, distant city traffic. No speech."
+    },
+    {
+      "id": "S01b",
+      "act": "act1",
+      "role": "B",
+      "duration": 5,
+      "audio": true,
+      "refs": [],
+      "keyframe": "Night, bedroom. Extreme close-up insert on white duvet: a man's hand loosely holding a glowing smartphone on the pillow, and a woman's hand resting nearby, a few centimetres away, not touching. Cold blue screen glow.",
+      "motion": "Static locked-off frame. The woman's fingers move slightly toward his hand, hesitate, and stop. The phone screen dims. Silent room tone."
+    },
+    {
+      "id": "S02",
+      "act": "act1",
+      "role": "A",
+      "duration": 8,
+      "audio": true,
+      "refs": [
+        "giulia",
+        "marco"
+      ],
+      "keyframe": "Morning, small Italian kitchen with grey overcast window light. Medium-wide shot. {giulia} in an oversized faded grey hoodie, hair in a claw clip, holding a moka pot. {marco} sits at the table typing on a laptop, not looking at her.",
+      "motion": "Handheld, subtle drift. She pours coffee and asks softly, \"Coffee?\" Without looking up from the laptop he mumbles, \"Mm-hm.\" She pauses for a moment. Kitchen ambience, laptop keys, coffee pouring."
+    },
+    {
+      "id": "S02b",
+      "act": "act1",
+      "role": "B",
+      "duration": 5,
+      "audio": true,
+      "refs": [],
+      "keyframe": "Morning kitchen, overcast light. Close-up insert: a woman's hand in a grey hoodie sleeve placing a small espresso cup beside an open laptop on a wooden table. A man's hands typing in the background, soft focus.",
+      "motion": "Static. Her hand sets the cup down and lingers a beat beside his hand, then slowly withdraws out of frame. He keeps typing. Soft clink of porcelain, typing."
+    },
+    {
+      "id": "S03",
+      "act": "act1",
+      "role": "A",
+      "duration": 8,
+      "audio": true,
+      "refs": [
+        "giulia",
+        "marco"
+      ],
+      "keyframe": "Evening, busy warm Milanese trattoria, birthday dinner, candles and wine glasses. {marco} laughs loudly with two friends at the centre of the table. {giulia} sits at the edge of the frame in a buttoned-up beige cardigan, quiet, slightly apart, lit cooler than everyone else.",
+      "motion": "Slow lateral dolly along the table from the laughing friends to her. She smiles politely but her eyes are distant. Restaurant walla, glasses clinking, laughter."
+    },
+    {
+      "id": "S03b",
+      "act": "act1",
+      "role": "B",
+      "duration": 5,
+      "audio": true,
+      "refs": [
+        "giulia"
+      ],
+      "keyframe": "Evening trattoria. Medium close-up of {giulia} at the table, her eyes following something off-screen with quiet hurt, candlelight on one side of her face, background bokeh.",
+      "motion": "Static. She notices something off-screen, her smile fades, she looks down at her wine glass and pulls her cardigan closed. Muffled restaurant walla."
+    },
+    {
+      "id": "S04",
+      "act": "act1",
+      "role": "A",
+      "duration": 8,
+      "audio": true,
+      "refs": [
+        "giulia"
+      ],
+      "keyframe": "Night, small bathroom, cold fluorescent light. Medium shot into the mirror: reflection of {giulia} in a plain grey cotton tank top, hair messy, tired face, looking at herself without expression.",
+      "motion": "Slow push-in on the mirror reflection. She looks at herself, exhales, her shoulders drop and she looks away. Fluorescent hum, dripping tap."
+    },
+    {
+      "id": "S04b",
+      "act": "act1",
+      "role": "B",
+      "duration": 5,
+      "audio": true,
+      "refs": [],
+      "keyframe": "Night bathroom. Extreme close-up of a woman's hand on an old white light switch on a tiled wall, cold fluorescent light.",
+      "motion": "Static. After a beat her finger presses the switch down and the room goes completely black. Fluorescent hum stops with the click."
+    },
+    {
+      "id": "S05",
+      "act": "act2",
+      "role": "A",
+      "duration": 8,
+      "audio": true,
+      "refs": [
+        "giulia",
+        "elena"
+      ],
+      "keyframe": "Late afternoon on a Roman rooftop terrace with terracotta pots, lemon trees and domes in the distance. Wide two-shot at a small marble table: {elena} sits relaxed holding a small espresso cup, a closed moka pot standing on the table beside two espresso cups and a glass of water; {giulia} sits opposite in her grey hoodie with sunglasses pushed up on her head, stirring her espresso with a small spoon. Nobody is pouring anything.",
+      "motion": "Slow push-in. Giulia slowly stirs her coffee, looks down and says quietly, \"He doesn't see me anymore.\" Elena listens calmly, holding her cup; the moka pot stays standing on the table and nobody pours. Swallows, distant church bells, Roman street murmur."
+    },
+    {
+      "id": "S05b",
+      "act": "act2",
+      "role": "A",
+      "duration": 6,
+      "audio": true,
+      "refs": [
+        "elena"
+      ],
+      "keyframe": "Roman terrace, golden light. Medium close-up of {elena} holding a small espresso cup, lemon trees softly out of focus behind her.",
+      "motion": "Static, slight breathing camera. She takes a slow sip, lowers the cup, looks straight across the table and says gently, \"Cara... do you?\" Swallows, distant bells."
+    },
+    {
+      "id": "S05c",
+      "act": "act2",
+      "role": "B",
+      "duration": 5,
+      "audio": true,
+      "refs": [
+        "giulia"
+      ],
+      "keyframe": "Roman terrace, golden light. Close-up of {giulia} in her grey hoodie, caught off guard, eyes glistening, warm sunlight on her face.",
+      "motion": "Static. She opens her mouth to answer but says nothing, then looks down with a small embarrassed breath. Swallows, light breeze."
+    },
+    {
+      "id": "S06",
+      "act": "act2",
+      "role": "A",
+      "duration": 8,
+      "audio": true,
+      "refs": [
+        "elena"
+      ],
+      "keyframe": "Roman terrace, golden light. Medium close-up of {elena} leaning slightly forward, warm and a little cheeky, gold earrings catching the sun.",
+      "motion": "Slow push-in. She speaks warmly and with conviction: \"Beauty isn't for him. You put it on in the morning, for yourself. Then everyone notices.\" Swallows, distant bells."
+    },
+    {
+      "id": "S06b",
+      "act": "act2",
+      "role": "B",
+      "duration": 5,
+      "audio": true,
+      "refs": [],
+      "keyframe": "Roman terrace, golden light. Close-up insert on a white marble table: an elegant older woman's hand with red manicured nails slides a smartphone across the table, next to two espresso cups. The phone screen shows a softly blurred elegant lingerie shop page with red tones.",
+      "motion": "Static. The hand slides the phone forward and taps it twice with a red nail, then withdraws. Porcelain clink, breeze."
+    },
+    {
+      "id": "S07",
+      "act": "act2",
+      "role": "A",
+      "duration": 6,
+      "audio": true,
+      "refs": [
+        "giulia"
+      ],
+      "keyframe": "Night, living room in the Milan apartment, single warm lamp. {giulia} alone on the sofa in her hoodie, knees up, face lit by her phone screen.",
+      "motion": "Very slow push-in. She scrolls, hesitates, bites her lip, and a small shy smile appears. Quiet room tone, distant traffic."
+    },
+    {
+      "id": "S07b",
+      "act": "act2",
+      "role": "B",
+      "duration": 5,
+      "audio": true,
+      "refs": [],
+      "keyframe": "Night. Extreme close-up of a woman's thumb hovering over a smartphone screen showing a softly blurred product page with red lace lingerie and a black button, shallow focus, warm lamp light.",
+      "motion": "Static. The thumb hovers, hesitates, then taps the button decisively. Soft tap sound."
+    },
+    {
+      "id": "S08",
+      "act": "act3",
+      "role": "B",
+      "duration": 6,
+      "audio": true,
+      "refs": [
+        "product_box"
+      ],
+      "keyframe": "Bright golden morning light across white linen sheets. Top-down close-up: an elegant matte black lingerie gift box with a black satin ribbon, a woman's hands with natural nails reaching in to untie the ribbon.",
+      "motion": "Slow overhead push-in. Her fingers pull the satin ribbon loose, lift the lid and fold back delicate black tissue paper, revealing red lace inside. Rustle of tissue, satin sliding."
+    },
+    {
+      "id": "S08b",
+      "act": "act3",
+      "role": "B",
+      "duration": 5,
+      "audio": true,
+      "refs": [
+        "product"
+      ],
+      "keyframe": "Macro close-up in golden morning sunlight: delicate red floral lace of the bra from @Image1 draped over a woman's fingers, every thread of lace and the red strap detail visible, soft bokeh.",
+      "motion": "Slow macro slide. The red lace slips gently through her fingers in the sunlight. Soft fabric whisper."
+    },
+    {
+      "id": "S09",
+      "act": "act3",
+      "role": "A",
+      "duration": 6,
+      "audio": true,
+      "refs": [
+        "giulia",
+        "product"
+      ],
+      "keyframe": "The same small bathroom as before, now flooded with warm golden daylight. Tasteful fashion-editorial over-the-shoulder mirror shot: {giulia} with her hair loose, wearing the red lace balconette bra from the product reference, framed from the chest up, looking at her own reflection with a quiet, confident smile.",
+      "motion": "Slow push-in on the reflection. She lifts her chin, holds her own gaze and a quiet confident smile grows. She does not look away. Soft morning birdsong through the window."
+    },
+    {
+      "id": "S10a",
+      "act": "act3",
+      "role": "B",
+      "duration": 5,
+      "audio": true,
+      "refs": [
+        "giulia"
+      ],
+      "keyframe": "Warm golden morning, bedroom. Medium close-up from behind and slightly to the side: {giulia} in a grey cotton tank top, both of her hands reaching up behind her head to a tortoiseshell claw clip holding her hair up. Exactly two arms, both raised to the clip.",
+      "motion": "She pulls the clip out and her long dark wavy hair falls loose over her shoulders; she shakes it out with a slight smile. Soft rustle."
+    },
+    {
+      "id": "S10b",
+      "act": "act3",
+      "role": "B",
+      "duration": 5,
+      "audio": true,
+      "refs": [
+        "giulia"
+      ],
+      "keyframe": "Warm golden light. Extreme close-up of {giulia}'s lips as she applies a classic deep red lipstick in front of a mirror.",
+      "motion": "Static macro. She draws the red lipstick across her lower lip in one confident stroke and presses her lips together. Subtle sound of lipstick."
+    },
+    {
+      "id": "S10c",
+      "act": "act3",
+      "role": "B",
+      "duration": 5,
+      "audio": true,
+      "refs": [
+        "giulia"
+      ],
+      "keyframe": "Warm golden light, bedroom. Close-up from behind: {giulia} in a fitted black midi dress, her hand zipping up the back; a thin red lace bra strap peeks from under the dress at her shoulder.",
+      "motion": "Her hand pulls the zip up smoothly to the top, then she adjusts the red strap under the dress with one finger and turns her head slightly. Zip sound."
+    },
+    {
+      "id": "S11",
+      "act": "act3",
+      "role": "A",
+      "duration": 6,
+      "audio": true,
+      "refs": [
+        "marco"
+      ],
+      "keyframe": "Evening, warm apartment entryway with soft lamp light. Medium shot of {marco} coming through the front door in a jacket, keys in one hand, scrolling his phone with the other.",
+      "motion": "He walks in, closes the door with his shoulder, glances up from his phone and stops dead, staring off-screen, his expression shifting to surprise. Door closing, keys jingling."
+    },
+    {
+      "id": "S11b",
+      "act": "act3",
+      "role": "A",
+      "duration": 6,
+      "audio": true,
+      "refs": [
+        "giulia"
+      ],
+      "keyframe": "Evening, warm kitchen with candlelight and soft lamps. Medium shot: {giulia} barefoot in a fitted black midi dress, hair loose, red lipstick, pouring red wine into two glasses at the counter, completely at ease.",
+      "motion": "She finishes pouring the wine from the bottle neck into the glass, sets the bottle down on the counter, then glances up toward camera with a slow playful smile and says lightly, \"Coffee?\" Soft music from another room."
+    },
+    {
+      "id": "S11c",
+      "act": "act3",
+      "role": "A",
+      "duration": 6,
+      "audio": true,
+      "refs": [
+        "marco"
+      ],
+      "keyframe": "Evening, warm kitchen. Medium close-up of {marco} wearing a brown leather jacket over a navy t-shirt, standing by the counter, looking at her off-screen, captivated, holding his phone.",
+      "motion": "He looks at her, his expression slowly softening from surprise into wonder; he places his phone face-down on the counter without looking at it, says quietly, \"Wow,\" and then laughs softly, a warm, disarmed laugh. Phone set down on stone."
+    },
+    {
+      "id": "S12",
+      "act": "act3",
+      "role": "A",
+      "duration": 6,
+      "audio": true,
+      "refs": [
+        "giulia",
+        "marco"
+      ],
+      "keyframe": "Evening, warm candlelit kitchen. Intimate close two-shot: {marco} in a brown leather jacket over a navy t-shirt embraces {giulia} from behind; she wears a fitted black midi dress with thin straps, red lipstick, hair loose; both smiling, his face close to her bare shoulder, warm golden light.",
+      "motion": "Slow push-in. He holds her close and gently kisses her bare shoulder; she closes her eyes and smiles. Soft breathing, quiet room tone."
+    },
+    {
+      "id": "S13",
+      "act": "act3",
+      "role": "B",
+      "duration": 6,
+      "audio": false,
+      "refs": [
+        "product",
+        "product_box"
+      ],
+      "keyframe": "Luxury product still life: the red lace balconette bra from @Image1 laid elegantly on dark red silk sheets next to an open matte black gift box with black tissue paper, warm golden rim light, deep shadows, generous empty dark space in the upper third of the frame.",
+      "motion": "Very slow, smooth dolly-in with gentle parallax over the silk. Light shimmers across the lace. No sound."
+    }
+  ]
+}

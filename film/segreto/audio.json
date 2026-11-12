@@ -1,0 +1,214 @@
+{
+  "ttsModel": "eleven_v4_turbo",
+  "voices": {
+    "sofia": {
+      "id": "VPwSyGn0Ig7yoOZeXb8K",
+      "name": "Segreto sofia — Voice Design v3 preview 3 (chosen by client)"
+    },
+    "rosa": {
+      "id": "CAfGt3T3ys84d2bIhN9L",
+      "name": "Segreto rosa — Voice Design v3 preview 1 (chosen by client)"
+    },
+    "lucia": {
+      "id": "XyaKfq6LmPHdHFVgr8Xz",
+      "name": "Segreto lucia — Voice Design v3 preview 1 (chosen by client)"
+    }
+  },
+  "narration": [
+    {
+      "id": "NV01",
+      "text": "Tomorrow I present the biggest project of my life... and I feel like a little girl playing dress-up.",
+      "max": 6.2
+    },
+    {
+      "id": "NV02",
+      "text": "Nothing felt like me.",
+      "max": 2
+    },
+    {
+      "id": "NV03",
+      "text": "My grandmother had a drawer nobody was allowed to open.",
+      "max": 3.9
+    },
+    {
+      "id": "NV04",
+      "text": "It was ridiculous. Nobody would ever see it.",
+      "max": 3.5
+    },
+    {
+      "id": "NV05",
+      "text": "But I walked out of that house like my grandmother.",
+      "max": 3.7
+    },
+    {
+      "id": "NV06",
+      "text": "I don't remember a single slide.",
+      "max": 2.5
+    },
+    {
+      "id": "NV07",
+      "text": "Some secrets you keep. The best ones... you pass on.",
+      "max": 4.6
+    }
+  ],
+  "narrator": "sofia",
+  "dialogue": [
+    {
+      "id": "D01",
+      "shot": "N03",
+      "speaker": "rosa",
+      "line": "Amore. Nobody sleeps in this house when you walk like an elephant."
+    },
+    {
+      "id": "D02",
+      "shot": "N04",
+      "speaker": "sofia",
+      "line": "Nonna, how are you always so... you?"
+    },
+    {
+      "id": "D03",
+      "shot": "N04b",
+      "speaker": "rosa",
+      "line": "You want the secret?"
+    },
+    {
+      "id": "D04",
+      "shot": "N06b",
+      "speaker": "sofia",
+      "line": "Nonna!"
+    },
+    {
+      "id": "D05",
+      "shot": "N06c",
+      "speaker": "rosa",
+      "line": "What? You think I was born seventy-eight?"
+    },
+    {
+      "id": "D06",
+      "shot": "N07",
+      "speaker": "rosa",
+      "line": "Every morning, something beautiful underneath. Not for a man. Not for anyone. For me. Nobody sees it... but everybody feels it."
+    },
+    {
+      "id": "D07",
+      "shot": "N08",
+      "speaker": "lucia",
+      "line": "Mamma, not the drawer speech again..."
+    },
+    {
+      "id": "D08",
+      "shot": "N08b",
+      "speaker": "rosa",
+      "line": "And look how your mother turned out. Magnificent."
+    },
+    {
+      "id": "D09",
+      "shot": "N09",
+      "speaker": "rosa",
+      "line": "I was saving this for your wedding. But this is more important."
+    },
+    {
+      "id": "D10",
+      "shot": "N13",
+      "speaker": "sofia",
+      "line": "We got it."
+    },
+    {
+      "id": "D11",
+      "shot": "N13",
+      "speaker": "rosa",
+      "line": "Of course you got it."
+    },
+    {
+      "id": "D12",
+      "shot": "N13b",
+      "speaker": "rosa",
+      "line": "Which colour?"
+    }
+  ],
+  "music": {
+    "plan": {
+      "positive_global_styles": [
+        "cinematic film score",
+        "warm Italian family comedy-drama",
+        "acoustic",
+        "mandolin",
+        "solo piano",
+        "warm strings",
+        "playful",
+        "elegant"
+      ],
+      "negative_global_styles": [
+        "drums",
+        "percussion",
+        "vocals",
+        "electronic",
+        "synth",
+        "silence",
+        "long pauses",
+        "sound effects"
+      ],
+      "sections": [
+        {
+          "section_name": "Night nerves",
+          "positive_local_styles": [
+            "gentle anxious pizzicato strings and soft piano from the very first second",
+            "light and slightly comic",
+            "sparse but continuous"
+          ],
+          "negative_local_styles": [
+            "silence",
+            "fade in",
+            "drums"
+          ],
+          "duration_ms": 22000,
+          "lines": []
+        },
+        {
+          "section_name": "The secret",
+          "positive_local_styles": [
+            "warm playful mandolin and clarinet",
+            "mischievous then tender",
+            "intimate"
+          ],
+          "negative_local_styles": [
+            "drums",
+            "silence"
+          ],
+          "duration_ms": 33000,
+          "lines": []
+        },
+        {
+          "section_name": "Il giorno",
+          "positive_local_styles": [
+            "bright confident Italian strings and piano",
+            "uplifting",
+            "sunlit",
+            "proud"
+          ],
+          "negative_local_styles": [
+            "drums",
+            "silence",
+            "bombastic"
+          ],
+          "duration_ms": 28000,
+          "lines": []
+        },
+        {
+          "section_name": "Resolve",
+          "positive_local_styles": [
+            "warm tender resolution",
+            "sustained strings and a final mandolin note",
+            "held to the very end"
+          ],
+          "negative_local_styles": [
+            "silence",
+            "abrupt ending"
+          ],
+          "duration_ms": 9000,
+          "lines": []
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "fps": 24,
+  "duration": 90,
+  "picture": [
+    {
+      "track": "V1",
+      "shot": "S01",
+      "act": "act1",
+      "at": 0,
+      "in": 0.3,
+      "dur": 5.7,
+      "pushTo": 0.02,
+      "note": "hook; V01 begins under the push-in"
+    },
+    {
+      "track": "V2",
+      "shot": "S01b",
+      "act": "act1",
+      "at": 5.7,
+      "in": 0.8,
+      "dur": 3,
+      "note": "B-roll overlay carries V01 across the cut (L-cut)"
+    },
+    {
+      "track": "V1",
+      "shot": "S02",
+      "act": "act1",
+      "at": 8.7,
+      "in": 2.9,
+      "dur": 4.4,
+      "note": "'Coffee?' / 'Mm-hm.' — kitchen sound J-cuts in under S01b"
+    },
+    {
+      "track": "V2",
+      "shot": "S02b",
+      "act": "act1",
+      "at": 13.1,
+      "in": 0.9,
+      "dur": 3.1,
+      "note": "cut on action: cup set down; V02 over insert"
+    },
+    {
+      "track": "V1",
+      "shot": "S03",
+      "act": "act1",
+      "at": 16.2,
+      "in": 0.5,
+      "dur": 5,
+      "note": "restaurant walla J-cut 0.8s ahead of picture"
+    },
+    {
+      "track": "V2",
+      "shot": "S03b",
+      "act": "act1",
+      "at": 21.2,
+      "in": 0.4,
+      "dur": 4,
+      "note": "eyeline reaction; V03 bridges S03→S03b"
+    },
+    {
+      "track": "V1",
+      "shot": "S04",
+      "act": "act1",
+      "at": 25.2,
+      "in": 2,
+      "dur": 4.8,
+      "pushTo": 0.015
+    },
+    {
+      "track": "V2",
+      "shot": "S04b",
+      "act": "act1",
+      "at": 30,
+      "in": 1.6,
+      "dur": 1.6,
+      "note": "cut on action: switch pressed → black"
+    },
+    {
+      "track": "V1",
+      "shot": "S05",
+      "act": "act2",
+      "at": 32.3,
+      "in": 3,
+      "dur": 4.8,
+      "note": "Giulia: 'He doesn't see me anymore.' cut 0.4s after line (speaker cadence)"
+    },
+    {
+      "track": "V1",
+      "shot": "S05b",
+      "act": "act2",
+      "at": 37.1,
+      "in": 0.7,
+      "dur": 3.3,
+      "note": "Elena sips; 'Cara…' — cut mid-line"
+    },
+    {
+      "track": "V2",
+      "shot": "S05c",
+      "act": "act2",
+      "at": 40.4,
+      "in": 0.6,
+      "dur": 3.2,
+      "note": "reaction under '…do you?' (L-cut); Elena's next line J-cuts in"
+    },
+    {
+      "track": "V1",
+      "shot": "S06",
+      "act": "act2",
+      "at": 43.6,
+      "in": 3.1,
+      "dur": 3.4,
+      "note": "in-sync with A2 (lip-sync preserved through the J-cut)"
+    },
+    {
+      "track": "V2",
+      "shot": "S06b",
+      "act": "act2",
+      "at": 47,
+      "in": 0.3,
+      "dur": 3.4,
+      "note": "'…then everyone notices' over the insert (L-cut hides splice)"
+    },
+    {
+      "track": "V1",
+      "shot": "S07",
+      "act": "act2",
+      "at": 50.4,
+      "in": 1.2,
+      "dur": 4.2,
+      "pushTo": 0.015
+    },
+    {
+      "track": "V2",
+      "shot": "S07b",
+      "act": "act2",
+      "at": 54.6,
+      "in": 1.6,
+      "dur": 3.1,
+      "note": "tap; V06 L-cuts into Act 3"
+    },
+    {
+      "track": "V2",
+      "shot": "S08",
+      "act": "act3",
+      "at": 57.7,
+      "in": 1.4,
+      "dur": 4.4,
+      "note": "score lifts on the lid; cut on action at the reveal"
+    },
+    {
+      "track": "V2",
+      "shot": "S08b",
+      "act": "act3",
+      "at": 62.1,
+      "in": 0.3,
+      "dur": 3
+    },
+    {
+      "track": "V1",
+      "shot": "S09",
+      "act": "act3",
+      "at": 65.1,
+      "in": 1,
+      "dur": 4.8,
+      "note": "mirror rhyme with S04; 'Her.' lands on the smile"
+    },
+    {
+      "track": "V2",
+      "shot": "S10a",
+      "act": "act3",
+      "at": 69.9,
+      "in": 0.5,
+      "dur": 1.8,
+      "note": "cut on action: hair falls"
+    },
+    {
+      "track": "V2",
+      "shot": "S10b",
+      "act": "act3",
+      "at": 71.7,
+      "in": 0.4,
+      "dur": 1.8
+    },
+    {
+      "track": "V2",
+      "shot": "S10c",
+      "act": "act3",
+      "at": 73.5,
+      "in": 1.6,
+      "dur": 1.9
+    },
+    {
+      "track": "V1",
+      "shot": "S11",
+      "act": "act3",
+      "at": 75.4,
+      "in": 3.2,
+      "dur": 2.4,
+      "note": "door/keys J-cut 0.5s ahead"
+    },
+    {
+      "track": "V1",
+      "shot": "S11b",
+      "act": "act3",
+      "at": 77.8,
+      "in": 3.2,
+      "dur": 2.8,
+      "note": "'Coffee?' — callback to S02"
+    },
+    {
+      "track": "V1",
+      "shot": "S11c",
+      "act": "act3",
+      "at": 80.6,
+      "in": 1.6,
+      "dur": 3.4,
+      "note": "'Wow.' — phone face-down; cut on his step forward"
+    },
+    {
+      "track": "V1",
+      "shot": "S12",
+      "act": "act3",
+      "at": 84,
+      "in": 2.4,
+      "dur": 2.5,
+      "fadeOut": 0.6,
+      "note": "V10 'He came back…' starts here, finishes over end card (L-cut)"
+    },
+    {
+      "track": "V1",
+      "shot": "S13",
+      "act": "act3",
+      "at": 85.9,
+      "in": 0,
+      "dur": 4.1,
+      "fadeIn": 0.6,
+      "note": "end card plate; logo + tagline overlay"
+    }
+  ],
+  "sound": [
+    {
+      "track": "A1",
+      "src": "vo/V01.wav",
+      "at": 0.9,
+      "in": 0,
+      "dur": 6.04,
+      "gain": 1,
+      "label": "V01"
+    },
+    {
+      "track": "A1",
+      "src": "vo/V02.wav",
+      "at": 13.6,
+      "in": 0,
+      "dur": 1.8,
+      "gain": 1,
+      "label": "V02"
+    },
+    {
+      "track": "A1",
+      "src": "vo/V03.wav",
+      "at": 17.1,
+      "in": 0,
+      "dur": 6.28,
+      "gain": 1,
+      "label": "V03"
+    },
+    {
+      "track": "A1",
+      "src": "vo/V04.wav",
+      "at": 26,
+      "in": 0,
+      "dur": 5.08,
+      "gain": 1,
+      "label": "V04"
+    },
+    {
+      "track": "A1",
+      "src": "vo/V05.wav",
+      "at": 50.9,
+      "in": 0,
+      "dur": 3.56,
+      "gain": 1,
+      "label": "V05"
+    },
+    {
+      "track": "A1",
+      "src": "vo/V06.wav",
+      "at": 54.8,
+      "in": 0,
+      "dur": 5.16,
+      "gain": 1,
+      "label": "V06"
+    },
+    {
+      "track": "A1",
+      "src": "vo/V07.wav",
+      "at": 60.2,
+      "in": 0,
+      "dur": 4.36,
+      "gain": 1,
+      "label": "V07"
+    },
+    {
+      "track": "A1",
+      "src": "vo/V08.wav",
+      "at": 67.6,
+      "in": 0,
+      "dur": 1.32,
+      "gain": 1,
+      "label": "V08"
+    },
+    {
+      "track": "A1",
+      "src": "vo/V09.wav",
+      "at": 70.2,
+      "in": 0,
+      "dur": 4.36,
+      "gain": 1,
+      "label": "V09"
+    },
+    {
+      "track": "A1",
+      "src": "vo/V10.wav",
+      "at": 84.4,
+      "in": 0,
+      "dur": 4.68,
+      "gain": 1,
+      "label": "V10"
+    },
+    {
+      "track": "A2",
+      "src": "dialogue_sts/S02.giulia.wav",
+      "at": 9.72,
+      "in": 3.92,
+      "dur": 0.97,
+      "gain": 1,
+      "fadeIn": 0.04,
+      "fadeOut": 0.15,
+      "label": "S02:giulia:D01"
+    },
+    {
+      "track": "A2",
+      "src": "dialogue_sts/S02.marco.wav",
+      "at": 10.8,
+      "in": 5,
+      "dur": 0.81,
+      "gain": 1,
+      "fadeIn": 0.04,
+      "fadeOut": 0.15,
+      "label": "S02:marco:D02"
+    },
+    {
+      "track": "A2",
+      "src": "dialogue_sts/S05.giulia.wav",
+      "at": 35.2,
+      "in": 5.8999999999999995,
+      "dur": 1.77,
+      "gain": 1,
+      "fadeIn": 0.04,
+      "fadeOut": 0.15,
+      "label": "S05:giulia:D03"
+    },
+    {
+      "track": "A2",
+      "src": "dialogue_sts/S05b.elena.wav",
+      "at": 39.94,
+      "in": 3.54,
+      "dur": 1.17,
+      "gain": 1,
+      "fadeIn": 0.04,
+      "fadeOut": 0.15,
+      "label": "S05b:elena:D04"
+    },
+    {
+      "track": "A2",
+      "src": "dialogue_sts/S06.elena.wav",
+      "at": 41.74,
+      "in": 1.24,
+      "dur": 6.63,
+      "gain": 1,
+      "fadeIn": 0.04,
+      "fadeOut": 0.15,
+      "label": "S06:elena:D05"
+    },
+    {
+      "track": "A2",
+      "src": "dialogue_sts/S11b.giulia.wav",
+      "at": 79.6,
+      "in": 5,
+      "dur": 0.99,
+      "gain": 1,
+      "fadeIn": 0.04,
+      "fadeOut": 0.15,
+      "label": "S11b:giulia:D06"
+    },
+    {
+      "track": "A2",
+      "src": "dialogue_sts/S11c.marco.wav",
+      "at": 83.26,
+      "in": 4.26,
+      "dur": 0.95,
+      "gain": 1,
+      "fadeIn": 0.04,
+      "fadeOut": 0.15,
+      "label": "S11c:marco:D07"
+    },
+    {
+      "track": "A3",
+      "src": "foley/F_cup_saucer.wav",
+      "at": 13.7,
+      "in": 0,
+      "dur": 1,
+      "gain": 0.35,
+      "fadeIn": 0.02,
+      "fadeOut": 0.25,
+      "label": "F_cup_saucer"
+    },
+    {
+      "track": "A3",
+      "src": "foley/F_switch.wav",
+      "at": 31.46,
+      "in": 0,
+      "dur": 0.6,
+      "gain": 0.7,
+      "fadeIn": 0.02,
+      "fadeOut": 0.25,
+      "label": "F_switch"
+    },
+    {
+      "track": "A3",
+      "src": "foley/F_box.wav",
+      "at": 57.7,
+      "in": 0,
+      "dur": 4.5,
+      "gain": 0.3,
+      "fadeIn": 0.02,
+      "fadeOut": 0.25,
+      "label": "F_box"
+    },
+    {
+      "track": "A3",
+      "src": "foley/F_door.wav",
+      "at": 74.9,
+      "in": 0,
+      "dur": 1.6,
+      "gain": 0.35,
+      "fadeIn": 0.02,
+      "fadeOut": 0.25,
+      "label": "F_door"
+    },
+    {
+      "track": "A3",
+      "src": "foley/F_phone_down.wav",
+      "at": 81,
+      "in": 0,
+      "dur": 0.6,
+      "gain": 0.35,
+      "fadeIn": 0.02,
+      "fadeOut": 0.25,
+      "label": "F_phone_down"
+    }
+  ],
+  "score": {
+    "src": "audio/score.mp3",
+    "at": 0,
+    "in": 0.82,
+    "dur": 90,
+    "gain": 0.111
+  },
+  "endCard": {
+    "at": 86.4,
+    "dur": 3.6
+  }
+}

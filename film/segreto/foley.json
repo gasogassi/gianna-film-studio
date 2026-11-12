@@ -1,0 +1,10 @@
+{
+  "_doc": "Minimal discrete sync effects only (client rule). shot + src = clip source time of the sync point.",
+  "cues": [
+    { "id": "SF_door_creak", "shot": "N03", "src": 0.2, "sec": 1.5, "gain": 0.35, "prompt": "Old wooden bedroom door creaking open slowly in a quiet stone house at night, single creak, high quality foley" },
+    { "id": "SF_drawer", "shot": "N05", "src": 1.2, "sec": 1.6, "gain": 0.4, "prompt": "Antique wooden drawer sliding open smoothly, soft wood friction, close, high quality foley" },
+    { "id": "SF_ribbon_box", "shot": "N10", "src": 1.0, "sec": 4.0, "gain": 0.3, "prompt": "Satin ribbon pulled loose, a rigid gift box lid lifted off, delicate tissue paper rustling, close-up luxury unboxing foley" },
+    { "id": "SF_heels", "shot": "N12a", "src": 0.3, "sec": 3.0, "gain": 0.3, "prompt": "Confident high heels walking briskly on polished white limestone street, crisp clicks, light outdoor reverb" },
+    { "id": "SF_clink", "shot": "N14", "src": 1.6, "sec": 1.0, "gain": 0.6, "lufs": -16, "prompt": "Two tiny glass shot glasses clinking together gently, single bright clink, close, high quality foley" }
+  ]
+}

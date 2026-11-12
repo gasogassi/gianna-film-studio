@@ -1,0 +1,32 @@
+# secrets / local-only notes
+CLAUDE.local.md
+.env
+.env.*
+!.env.example
+
+# dependencies
+node_modules/
+
+# render outputs & generated media (large)
+out/
+assets/gen/
+assets/gen-*/
+public/
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.pcm
+*.m4a
+
+# generated merch mockups (results) — keep scripts, specs and the reference photos
+gifts/**/*.png
+gifts/**/*.jpg
+!gifts/**/reference*.png
+gifts/**/final/
+gifts/**/v3/
+gifts/**/*.log
+
+# misc
+.DS_Store
+*.log

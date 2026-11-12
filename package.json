@@ -1,0 +1,28 @@
+{
+  "name": "gianna-film-studio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render:local": "remotion render src/index.ts Ritorno out/ritorno-local.mp4",
+    "deploy": "node pipeline/06-lambda.mjs deploy",
+    "render": "node pipeline/06-lambda.mjs render"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.486",
+    "@remotion/lambda": "4.0.486",
+    "@remotion/media": "4.0.486",
+    "@remotion/google-fonts": "4.0.486",
+    "remotion": "4.0.486",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "hyperframes": "0.8.46",
+    "@hyperframes/aws-lambda": "0.8.46",
+    "@aws-sdk/client-s3": "^3.700.0",
+    "@aws-sdk/s3-request-presigner": "^3.700.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "typescript": "^5.5.0"
+  }
+}

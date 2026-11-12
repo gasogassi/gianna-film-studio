@@ -1,0 +1,139 @@
+{
+  "voices": {
+    "giulia": {
+      "id": "nL282MiJD7RN4DuFaqwt",
+      "name": "Ritorno Giulia v3 (Voice Design v3, preview 2 \u2014 chosen by client)"
+    },
+    "elena": {
+      "id": "ruUetPns9f93xVNf4dyX",
+      "name": "Ritorno elena v3 (Voice Design v3, preview 2 \u2014 chosen by client)"
+    },
+    "marco": {
+      "id": "1uVXh9BqKMWkBmpNLX1C",
+      "name": "Ritorno marco v3 (Voice Design v3, preview 2 \u2014 chosen by client)"
+    }
+  },
+  "narration": [
+    {
+      "id": "V01",
+      "text": "[softly] Eight years. And one night I realised... he hadn't really looked at me in months.",
+      "max": 6
+    },
+    {
+      "id": "V02",
+      "text": "I wasn't angry with him.",
+      "max": 2.2
+    },
+    {
+      "id": "V03",
+      "text": "I was angry with myself. Somewhere along the way... I stopped feeling like a woman.",
+      "max": 7
+    },
+    {
+      "id": "V04",
+      "text": "[quietly] I didn't want to see her. So I stopped looking.",
+      "max": 4.6
+    },
+    {
+      "id": "V05",
+      "text": "It felt silly. It was just lingerie.",
+      "max": 3.6
+    },
+    {
+      "id": "V06",
+      "text": "But it was the first thing in years I bought... only for me.",
+      "max": 5.2
+    },
+    {
+      "id": "V07",
+      "text": "The moment I put it on... something came back.",
+      "max": 4.4
+    },
+    {
+      "id": "V08",
+      "text": "[breathy] Her.",
+      "max": 1.2
+    },
+    {
+      "id": "V09",
+      "text": "Nobody could see it. But I walked differently.",
+      "max": 4.2
+    },
+    {
+      "id": "V10",
+      "text": "He came back. But first... I did.",
+      "max": 5.2
+    }
+  ],
+  "dialogue": [
+    {
+      "id": "D01",
+      "shot": "S02",
+      "speaker": "giulia",
+      "line": "Coffee?"
+    },
+    {
+      "id": "D02",
+      "shot": "S02",
+      "speaker": "marco",
+      "line": "Mm-hm."
+    },
+    {
+      "id": "D03",
+      "shot": "S05",
+      "speaker": "giulia",
+      "line": "He doesn't see me anymore."
+    },
+    {
+      "id": "D04",
+      "shot": "S05b",
+      "speaker": "elena",
+      "line": "Cara... do you?"
+    },
+    {
+      "id": "D05",
+      "shot": "S06",
+      "speaker": "elena",
+      "line": "Beauty isn't for him. You put it on in the morning, for yourself. Then everyone notices."
+    },
+    {
+      "id": "D06",
+      "shot": "S11b",
+      "speaker": "giulia",
+      "line": "Coffee?"
+    },
+    {
+      "id": "D07",
+      "shot": "S11c",
+      "speaker": "marco",
+      "line": "Wow."
+    }
+  ],
+  "music": {
+    "lengthMs": 92000,
+    "prompt": "Original cinematic film score for a 90-second intimate Italian romantic drama. 0-31s: sparse, melancholic solo felt piano in a minor key, lots of space and silence, very soft cello drone underneath. 31-56s: piano warms, a solo cello joins with a hopeful rising line, gentle pizzicato strings, late-afternoon Roman warmth. 56-82s: full warm string ensemble swells, romantic Italian strings with piano arpeggios, emotional lift and confidence, major key. 82-92s: resolves gracefully to a single sustained piano chord and soft strings, elegant ending. Restrained, tasteful, arthouse film soundtrack, no drums, no vocals, no electronic elements."
+  },
+  "ambience": [
+    {
+      "id": "AMB_night",
+      "seconds": 22,
+      "prompt": "Quiet apartment bedroom at night, very soft distant city traffic, faint room tone, occasional far-away car passing, intimate and still"
+    },
+    {
+      "id": "AMB_terrace",
+      "seconds": 22,
+      "prompt": "Roman rooftop terrace late afternoon, swallows chirping and swooping, distant church bells, faint city murmur below, gentle breeze"
+    },
+    {
+      "id": "AMB_morning",
+      "seconds": 22,
+      "prompt": "Bright morning bedroom with window open, soft birdsong, very gentle breeze, peaceful warm room tone"
+    },
+    {
+      "id": "AMB_evening",
+      "seconds": 22,
+      "prompt": "Warm apartment kitchen in the evening, faint candle crackle, soft quiet room tone, very distant street life through a window"
+    }
+  ],
+  "ttsModel": "eleven_v4_turbo"
+}

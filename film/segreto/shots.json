@@ -1,0 +1,293 @@
+{
+  "title": "Il Segreto di Nonna",
+  "fps": 24,
+  "width": 1080,
+  "height": 1920,
+  "style": "vertical 9:16 cinematic frame, shot on ARRI Alexa Mini LF with Cooke S4 primes, shallow depth of field, natural motivated practical lighting, Kodak 2383 film print emulation, fine 35mm grain, photorealistic, warm Italian family drama with gentle comedy, no text, no watermark, no logos",
+  "grades": {
+    "act1": "warm tungsten night interior, amber lamp light, soft deep shadows",
+    "act2": "rich golden lamplight, honey and walnut tones, intimate",
+    "act3": "bright Puglian daylight, luminous white stone, warm golden evening at the end"
+  },
+  "characters": {
+    "sofia": "Sofia, a 29-year-old Italian woman, shoulder-length dark chestnut hair with soft waves, olive skin, hazel eyes, natural brows, slim build",
+    "rosa": "Rosa, a 78-year-old glamorous Italian grandmother, sleek silver chin-length bob, bright red lipstick, elegant fine wrinkles, warm brown eyes, small gold earrings and gold rings, upright confident posture",
+    "lucia": "Lucia, a 54-year-old Italian woman, dark hair with a few greys in a loose bun, reading glasses pushed up on her head"
+  },
+  "sheets": [
+    {
+      "id": "sofia",
+      "char": "sofia",
+      "wardrobe": "a plain oversized soft grey hoodie with no print or lettering, grey cotton joggers, barefoot, hair loose"
+    },
+    {
+      "id": "sofia_blazer",
+      "char": "sofia",
+      "wardrobe": "a sharp tailored cream blazer over a black silk camisole, high-waisted black tailored trousers, black pointed heels, hair loose and glossy"
+    },
+    {
+      "id": "rosa_robe",
+      "char": "rosa",
+      "wardrobe": "an elegant emerald-green silk dressing robe with a sash, red lipstick, gold rings, silk slippers"
+    },
+    {
+      "id": "rosa_linen",
+      "char": "rosa",
+      "wardrobe": "a flowing cream linen midi dress with a thin belt, gold rings and earrings, red lipstick, leather sandals"
+    },
+    {
+      "id": "lucia",
+      "char": "lucia",
+      "wardrobe": "a loose white linen shirt and beige linen trousers, slippers"
+    }
+  ],
+  "shots": [
+    {
+      "id": "N01",
+      "act": "act1",
+      "role": "A",
+      "duration": 6,
+      "refs": [
+        "sofia"
+      ],
+      "keyframe": "Night, a childhood bedroom inside an old whitewashed Puglian masseria, vaulted ceiling, antique wooden furniture, a laptop glowing with architectural slides on the bed. {sofia} in her grey hoodie stands mid-pace, anxiously biting her thumbnail, lit by a warm bedside lamp and the laptop glow.",
+      "motion": "Handheld, subtle. She paces two steps, stops, bites her thumbnail and stares at the laptop screen, then exhales and rubs her face. Quiet night room tone. No speech."
+    },
+    {
+      "id": "N02",
+      "act": "act1",
+      "role": "A",
+      "duration": 6,
+      "refs": [
+        "sofia"
+      ],
+      "keyframe": "Night, the same masseria bedroom. Medium shot into a tall antique standing mirror: reflection of {sofia} in her grey hoodie holding a sharp cream blazer on a hanger against herself, unconvinced. Clothes scattered on the bed behind her.",
+      "motion": "Static locked-off mirror framing. She looks at herself with the blazer, frowns, and tosses it onto the bed out of frame. No speech."
+    },
+    {
+      "id": "N03",
+      "act": "act1",
+      "role": "A",
+      "duration": 6,
+      "refs": [
+        "rosa_robe"
+      ],
+      "keyframe": "Night, the bedroom doorway of the old masseria, warm hallway lamp behind. {rosa} in her emerald silk robe leans elegantly against the door frame, holding two tiny glasses of yellow limoncello, one eyebrow raised, amused.",
+      "motion": "Slow push-in. She tilts her head and says dryly with warm humour, \"Amore. Nobody sleeps in this house when you walk like an elephant.\" Wooden door creak at the start."
+    },
+    {
+      "id": "N04",
+      "act": "act1",
+      "role": "A",
+      "duration": 6,
+      "refs": [
+        "sofia",
+        "rosa_robe"
+      ],
+      "keyframe": "Night, the masseria bedroom, warm lamp light. Two-shot sitting on the edge of the bed: {sofia} in her grey hoodie slumped, {rosa} in her emerald silk robe beside her, both holding tiny glasses of limoncello.",
+      "motion": "Static, gentle breathing camera. Sofia looks at her grandmother and asks softly, almost pleading, \"Nonna, how are you always so... you?\" Rosa listens with a knowing look. No other speech."
+    },
+    {
+      "id": "N04b",
+      "act": "act1",
+      "role": "A",
+      "duration": 5,
+      "refs": [
+        "rosa_robe"
+      ],
+      "keyframe": "Night, the masseria bedroom, warm bedside lamp. Full-frame vertical close-up portrait of ONLY {rosa} in her emerald silk robe, seated on the edge of a bed, head and shoulders filling the frame, holding a tiny limoncello glass near her red lips, eyes sparkling with mischief. Nobody else in frame. Full bleed image, no borders, no letterbox.",
+      "motion": "Static. She takes a slow sip, lowers the glass, pauses, then a sly smile spreads and she says quietly, \"You want the secret?\""
+    },
+    {
+      "id": "N05",
+      "act": "act2",
+      "role": "B",
+      "duration": 6,
+      "refs": [
+        "rosa_robe"
+      ],
+      "keyframe": "Night, Rosa's bedroom in the masseria, golden lamplight. A tall carved antique walnut wardrobe with its doors open, linen dresses hanging; {rosa}'s hand with gold rings pulling open a deep inner drawer lined with tissue paper.",
+      "motion": "Slow push-in toward the drawer. Her hand slides the drawer open smoothly, revealing folded tissue paper inside. Soft wooden drawer sound."
+    },
+    {
+      "id": "N06",
+      "act": "act2",
+      "role": "B",
+      "duration": 5,
+      "refs": [],
+      "keyframe": "Golden lamplight. Top-down close-up into an antique wooden drawer: beautifully folded vintage lingerie in silk and lace, ivory, black and blush, each piece wrapped in tissue paper like jewellery, a sachet of dried lavender, tasteful still life.",
+      "motion": "Very slow overhead drift across the drawer. An older woman's hand with gold rings gently lifts a fold of tissue paper. Soft paper rustle."
+    },
+    {
+      "id": "N06b",
+      "act": "act2",
+      "role": "A",
+      "duration": 5,
+      "refs": [
+        "sofia"
+      ],
+      "keyframe": "Golden lamplight. Medium close-up of {sofia} in her grey hoodie, eyes wide, mouth open in shocked delight, hand halfway to her mouth.",
+      "motion": "Static. Her jaw drops and she exclaims, scandalised and laughing, \"NONNA!\""
+    },
+    {
+      "id": "N06c",
+      "act": "act2",
+      "role": "A",
+      "duration": 5,
+      "refs": [
+        "rosa_robe"
+      ],
+      "keyframe": "Golden lamplight, Rosa's bedroom. Medium close-up of {rosa} in her emerald silk robe standing beside the open carved antique walnut wardrobe, completely unbothered, one eyebrow up, folding a piece of tissue paper over the open drawer.",
+      "motion": "Static. Without looking up she shrugs and says, deadpan, \"What? You think I was born seventy-eight?\""
+    },
+    {
+      "id": "N07",
+      "act": "act2",
+      "role": "A",
+      "duration": 10,
+      "refs": [
+        "rosa_robe"
+      ],
+      "keyframe": "Golden lamplight, Rosa's bedroom. Close-up of {rosa} in her emerald silk robe standing at the open carved antique walnut wardrobe, tender now, her fingertips with gold rings resting on a delicate lace edge inside the open tissue-lined drawer, looking at her granddaughter off-screen with love.",
+      "motion": "Very slow push-in. She speaks softly and slowly, with warmth: \"Every morning, something beautiful underneath. Not for a man. Not for anyone. For me. Nobody sees it... but everybody feels it.\""
+    },
+    {
+      "id": "N08",
+      "act": "act2",
+      "role": "A",
+      "duration": 5,
+      "refs": [
+        "lucia"
+      ],
+      "keyframe": "Night, a whitewashed masseria hallway with an arched ceiling and terracotta floor, warm wall lamp. {lucia} in her white linen shirt walks past an open doorway carrying a glass of water, mid eye-roll.",
+      "motion": "Static. She walks past the doorway, rolls her eyes theatrically and says flatly without stopping, \"Mamma, not the drawer speech again...\""
+    },
+    {
+      "id": "N08b",
+      "act": "act2",
+      "role": "A",
+      "duration": 5,
+      "refs": [
+        "rosa_robe"
+      ],
+      "keyframe": "Golden lamplight. Medium close-up of {rosa} in her emerald silk robe by the open wardrobe, chin raised proudly, not turning toward the door.",
+      "motion": "Static. Without turning around she says grandly, with comic pride, \"And look how your mother turned out. Magnificent.\""
+    },
+    {
+      "id": "N09",
+      "act": "act2",
+      "role": "A",
+      "duration": 8,
+      "refs": [
+        "sofia",
+        "rosa_robe",
+        "product_box"
+      ],
+      "keyframe": "Golden lamplight. Two-shot by the antique wardrobe: {rosa} in her emerald silk robe places an elegant matte black gift box with a black satin ribbon into the open hands of {sofia} in her grey hoodie.",
+      "motion": "Slow push-in. Rosa places the box in Sofia's hands, holds her hands for a moment and says gently, \"I was saving this for your wedding. But this is more important.\" Sofia looks down at the box, moved."
+    },
+    {
+      "id": "N10",
+      "act": "act3",
+      "role": "B",
+      "duration": 6,
+      "refs": [
+        "product_box"
+      ],
+      "keyframe": "Bright morning sunlight through a small deep-set masseria window onto white linen sheets. Top-down close-up: the matte black gift box with black satin ribbon, a young woman's hands untying the ribbon.",
+      "motion": "Slow overhead push-in. Her fingers pull the satin ribbon loose, lift the lid and fold back black tissue paper, revealing red lace inside. Ribbon and tissue rustle."
+    },
+    {
+      "id": "N10b",
+      "act": "act3",
+      "role": "B",
+      "duration": 5,
+      "refs": [
+        "product"
+      ],
+      "keyframe": "Macro close-up in bright morning sunlight: the delicate red floral lace of the bra from @Image1 resting across a young woman's fingers, every thread visible, soft bokeh of a white stone window.",
+      "motion": "Slow macro slide. The red lace shifts gently in the sunlight as her fingers move. Soft fabric whisper."
+    },
+    {
+      "id": "N11",
+      "act": "act3",
+      "role": "A",
+      "duration": 6,
+      "refs": [
+        "sofia_blazer"
+      ],
+      "keyframe": "Bright morning, the same masseria bedroom and the same tall antique standing mirror, identical framing to the night before. Reflection of {sofia} slipping the cream blazer on over a black silk camisole, a thin red lace edge just visible at the neckline, hair glossy.",
+      "motion": "Static locked-off mirror framing. She settles the blazer on her shoulders, straightens up, rolls her shoulders back and holds her own gaze with a small confident smile. She does not bite her nail."
+    },
+    {
+      "id": "N12a",
+      "act": "act3",
+      "role": "B",
+      "duration": 5,
+      "refs": [
+        "sofia_blazer"
+      ],
+      "keyframe": "Bright morning in Bari Vecchia: a narrow luminous white limestone street with arches. Low tracking shot of {sofia}'s black pointed heels and black tailored trousers striding confidently over the polished stone.",
+      "motion": "Low tracking shot alongside her feet as she walks briskly and confidently. Heels clicking on stone."
+    },
+    {
+      "id": "N12b",
+      "act": "act3",
+      "role": "A",
+      "duration": 6,
+      "refs": [
+        "sofia_blazer"
+      ],
+      "keyframe": "Bright modern meeting room inside a restored Bari stone building, big arched window. {sofia} in her cream blazer stands presenting next to a large architectural model, calm and owning the room; two blurred clients seated in the foreground.",
+      "motion": "Slow dolly-in. She gestures over the architectural model, speaking calmly without audible words; in the foreground one client nods slowly, impressed. No speech audible."
+    },
+    {
+      "id": "N13",
+      "act": "act3",
+      "role": "A",
+      "duration": 7,
+      "refs": [
+        "sofia_blazer",
+        "rosa_linen",
+        "rosa_robe"
+      ],
+      "keyframe": "Golden evening on the terrace of the masseria, olive trees and dry stone walls beyond, string lights. {sofia} in her cream blazer arrives and drops her bag on a chair; {rosa} in her cream linen dress sits at a small table raising two tiny glasses of limoncello.",
+      "motion": "Static wide two-shot. Sofia drops her bag and says, beaming, \"We got it.\" Rosa answers immediately, matter-of-fact, \"Of course you got it.\" Evening crickets."
+    },
+    {
+      "id": "N13b",
+      "act": "act3",
+      "role": "A",
+      "duration": 6,
+      "refs": [
+        "sofia_blazer",
+        "rosa_linen",
+        "rosa_robe"
+      ],
+      "keyframe": "Golden evening on the masseria terrace. Medium two-shot at the small table: {rosa} in her cream linen dress hands a tiny limoncello glass to {sofia} in her cream blazer, olive trees and string lights behind.",
+      "motion": "Static. Rosa leans in conspiratorially and asks, \"Which colour?\" They look at each other and both burst out laughing, Sofia covering her mouth."
+    },
+    {
+      "id": "N14",
+      "act": "act3",
+      "role": "B",
+      "duration": 5,
+      "refs": [],
+      "keyframe": "Golden evening, extreme close-up: exactly two hands in frame and nothing else — one elderly woman's hand with gold rings entering from the left and one young woman's hand entering from the right, each holding a tiny glass of yellow limoncello, the glasses clinking in the centre, warm string-light bokeh. No other hands, arms or people.",
+      "motion": "Static macro. The two small glasses meet in a gentle clink, the liquid catching the light. Soft glass clink."
+    },
+    {
+      "id": "N15",
+      "act": "act3",
+      "role": "B",
+      "duration": 6,
+      "audio": false,
+      "refs": [
+        "product",
+        "product_box"
+      ],
+      "keyframe": "Luxury still life in warm evening light: the red lace balconette bra from @Image1 folded on black tissue inside the open matte black gift box, standing on top of a carved antique walnut wardrobe shelf, soft shadows, generous empty dark space in the upper third of the frame.",
+      "motion": "Very slow, smooth dolly-in with gentle parallax. Light shimmers across the lace. No sound."
+    }
+  ]
+}

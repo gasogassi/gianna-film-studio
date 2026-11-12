@@ -1,0 +1,47 @@
+{
+  "_doc": "Foley spotting list. shot + src = clip source time of the sync point (cutlist converts to timeline). lead = J-cut seconds before picture allowed.",
+  "cues": [
+    {
+      "id": "F_cup_saucer",
+      "shot": "S02b",
+      "src": 1.5,
+      "sec": 1.0,
+      "gain": 0.35,
+      "prompt": "Small porcelain espresso cup gently set down on a saucer on a wooden table, single soft clink"
+    },
+    {
+      "id": "F_switch",
+      "shot": "S04b",
+      "src": 3.06,
+      "sec": 0.6,
+      "gain": 0.7,
+      "prompt": "Crisp close-up click of an old plastic wall light switch being pressed off, single sharp mechanical click, dry, high quality foley",
+      "lufs": -16
+    },
+    {
+      "id": "F_box",
+      "shot": "S08",
+      "src": 1.4,
+      "sec": 4.5,
+      "gain": 0.3,
+      "prompt": "Satin ribbon pulled loose, a rigid gift box lid lifted off, delicate tissue paper rustling, close-up luxury unboxing foley"
+    },
+    {
+      "id": "F_door",
+      "shot": "S11",
+      "src": 2.7,
+      "sec": 1.6,
+      "gain": 0.35,
+      "lead": 0.6,
+      "prompt": "Apartment front door closing softly with a latch click, then a small bunch of keys jingling"
+    },
+    {
+      "id": "F_phone_down",
+      "shot": "S11c",
+      "src": 2.0,
+      "sec": 0.6,
+      "gain": 0.35,
+      "prompt": "Smartphone placed face-down on a stone kitchen counter, single soft tap"
+    }
+  ]
+}
