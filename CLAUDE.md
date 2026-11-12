@@ -131,4 +131,4 @@ How: upload the master and a poster frame to the media bucket (`S3_BUCKET_NAME`)
 | # | Title | Status |
 |---|---|---|
 | 01 | Ritorno | v6 delivered, voice-changer dialogue |
-| 02 | Il Segreto di Nonna | in production: Puglia, red Palmira, v4 Turbo narrator (Sofia p3), Rosa p1, Lucia p1 |
+| 02 | Il Segreto di Nonna | v1 delivered: Puglia, red Palmira, v4 Turbo narrator (Sofia p3), Rosa p1, Lucia p1 |

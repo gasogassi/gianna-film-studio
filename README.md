@@ -5,7 +5,7 @@ Vertical (9:16) cinematic short-film ads for Gianna Bellucci.
 ## Films
 | # | Title | Length | Status | Deliverable |
 |---|-------|--------|--------|-------------|
-| 02 | Il Segreto di Nonna | 1:30 | Proposal script v1 (`scripts/02-il-segreto-proposal.md`) | — |
+| 02 | Il Segreto di Nonna | 1:30 | Delivered v1 | `out/segreto-master.mp4` |
 | 01 | Ritorno | 1:30 | Delivered | `out/ritorno-master.mp4` |
 
 ## Pipeline (`film/ritorno/` = production bible, `pipeline/` = steps, all re-runnable)
