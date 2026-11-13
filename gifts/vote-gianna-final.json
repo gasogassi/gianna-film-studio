@@ -1,0 +1,32 @@
+{
+ "cols": 3,
+ "logoWidth": 800,
+ "prefix": "C",
+ "subtitle": "\"I know where the milk is.\"  \u00b7  final design, 6 colour combinations (C01\u2013C06)",
+ "items": [
+  [
+   "b1-charcoal-blush.png",
+   "Charcoal \u00b7 white \u00b7 blush"
+  ],
+  [
+   "b2-black-gold.png",
+   "Black \u00b7 ivory \u00b7 gold foil"
+  ],
+  [
+   "b3-ivory-rose.png",
+   "Ivory \u00b7 black \u00b7 dusty rose"
+  ],
+  [
+   "b4-navy-sky.png",
+   "Navy \u00b7 cream \u00b7 sky blue"
+  ],
+  [
+   "b5-powderblue-navy.png",
+   "Powder blue \u00b7 navy \u00b7 white"
+  ],
+  [
+   "b6-sand-espresso.png",
+   "Sand \u00b7 espresso \u00b7 blush"
+  ]
+ ]
+}
