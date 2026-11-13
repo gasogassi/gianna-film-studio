@@ -30,3 +30,7 @@ gifts/**/*.log
 # misc
 .DS_Store
 *.log
+
+# print files (results)
+gifts/print/out/
+gifts/print/src/
