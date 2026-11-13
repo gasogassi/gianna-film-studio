@@ -50,7 +50,7 @@ for i, (fn, label) in enumerate(items):
     canvas.paste(shadow, (x - 20, y - 20), shadow)
     mask = Image.new("L", (CW, CH), 0); ImageDraw.Draw(mask).rounded_rectangle((0, 0, CW, CH), 22, fill=255)
     canvas.paste(im, (x, y), mask)
-    num = f"{i + 1:02d}"
+    num = f"{(spec or {}).get('prefix', '')}{i + 1:02d}"
     d.text((x + 4, y + CH + 26), num, font=f_num, fill=INK)
     d.text((x + 4 + d.textlength(num + "  ", font=f_num), y + CH + 26), label, font=f_cap, fill=MUTED)
 canvas.save(out, quality=92)

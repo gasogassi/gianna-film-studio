@@ -1,4 +1,5 @@
 // Larven × KAN — sarcastic AI-ad-platform baby onesies (kie.ai GPT Image 2).
+import { SV } from "./sv-designs.mjs";
 import { presign, download, sleep, path, ROOT, pool } from "../../pipeline/lib.mjs";
 const here = path.join(ROOT, "gifts/onesie");
 const outDir = path.join(ROOT, "gifts/larven");
@@ -76,6 +77,7 @@ const DESIGNS_ALL = [
   { id: "sr08-oversubscribed", color: "ice blue", print: `huge bold ${SANS} "OVERSUBSCRIBED" in charcoal; below "SEED ROUND." in Larven blue; small line "investors: 2 · demand: infinite"; small ${LARVEN} at the bottom` },
 ];
 
+DESIGNS_ALL.push(...SV);
 const DESIGNS = DESIGNS_ALL.filter((d) => !ONLY.length || ONLY.includes(d.id));
 const refs = { onesie: await presign(path.join(here, "reference.png"), "gianna-film/gifts/onesie-reference.png"), logo: await presign(path.join(outDir, "larven-logo-ref.png"), "gianna-film/gifts/larven-logo-ref.png") };
 await pool(DESIGNS, 5, async (d) => {

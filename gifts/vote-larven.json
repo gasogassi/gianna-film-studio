@@ -1,0 +1,56 @@
+{
+ "cols": 6,
+ "logoWidth": 520,
+ "prefix": "L",
+ "subtitle": "\"Seed round: successful.\"  \u00b7  vote for your favourite (L01\u2013L12)",
+ "items": [
+  [
+   "sv01-powderblue-classic.png",
+   "Powder blue \u00b7 classic"
+  ],
+  [
+   "sv02-white-blue.png",
+   "White \u00b7 blue accent"
+  ],
+  [
+   "sv03-charcoal-glow.png",
+   "Charcoal \u00b7 glow"
+  ],
+  [
+   "sv04-ice-outline.png",
+   "Ice \u00b7 outline"
+  ],
+  [
+   "sv05-sage-natural.png",
+   "Sage \u00b7 potted sprout"
+  ],
+  [
+   "sv06-navy-pixel.png",
+   "Navy \u00b7 pixel"
+  ],
+  [
+   "sv07-cream-handdrawn.png",
+   "Cream \u00b7 hand-drawn"
+  ],
+  [
+   "sv08-skyblue-badge.png",
+   "Sky blue \u00b7 badge"
+  ],
+  [
+   "sv09-heather-chart.png",
+   "Heather \u00b7 growth chart"
+  ],
+  [
+   "sv10-white-terminal.png",
+   "White \u00b7 terminal"
+  ],
+  [
+   "sv11-mint-bubble.png",
+   "Mint \u00b7 bubble"
+  ],
+  [
+   "sv12-charcoal-gradient.png",
+   "Charcoal \u00b7 gradient"
+  ]
+ ]
+}

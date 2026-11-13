@@ -1,0 +1,56 @@
+{
+ "cols": 6,
+ "logoWidth": 900,
+ "prefix": "G",
+ "subtitle": "\"I know where the milk is.\"  \u00b7  vote for your favourite (G01\u2013G12)",
+ "items": [
+  [
+   "m01-cream-retro.png",
+   "Cream \u00b7 retro"
+  ],
+  [
+   "m02-oat-varsity.png",
+   "Oat \u00b7 varsity"
+  ],
+  [
+   "m03-sage-script.png",
+   "Sage \u00b7 script"
+  ],
+  [
+   "m04-powderblue-block.png",
+   "Powder blue \u00b7 block"
+  ],
+  [
+   "m05-navy-serif.png",
+   "Navy \u00b7 italic serif"
+  ],
+  [
+   "m06-charcoal-typewriter.png",
+   "Charcoal \u00b7 typewriter"
+  ],
+  [
+   "m07-sand-groovy.png",
+   "Sand \u00b7 groovy"
+  ],
+  [
+   "m08-white-minimal.png",
+   "White \u00b7 minimal"
+  ],
+  [
+   "m09-heather-stamp.png",
+   "Heather \u00b7 stamp"
+  ],
+  [
+   "m10-skyblue-bubble.png",
+   "Sky blue \u00b7 bubble"
+  ],
+  [
+   "m11-olive-condensed.png",
+   "Olive \u00b7 condensed"
+  ],
+  [
+   "m12-latte-badge.png",
+   "Latte \u00b7 badge"
+  ]
+ ]
+}

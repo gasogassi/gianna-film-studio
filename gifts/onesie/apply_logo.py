@@ -33,7 +33,7 @@ for f in files:
             i = j
         else: i += 1
     # layout: ... caption lines, brand line, bow tie  -> brand line is second-to-last run
-    y0, y1 = runs[-2]
+    y0, y1 = tuple(map(int, os.environ["BOX"].split(","))) if os.environ.get("BOX") else runs[int(os.environ.get("BRAND_RUN", "-2"))]
     cols = np.where(ink[y0:y1, int(w * .1):int(w * .9)].any(0))[0] + int(w * .1)
     x0, x1 = cols.min(), cols.max()
     box = ink[y0:y1, x0:x1 + 1]
