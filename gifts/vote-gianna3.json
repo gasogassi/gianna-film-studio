@@ -1,0 +1,57 @@
+{
+ "cols": 6,
+ "logoWidth": 900,
+ "prefix": "G",
+ "start": 25,
+ "subtitle": "\"I know where the milk is.\"  \u00b7  the elegant edition  \u00b7  vote for your favourite (G25\u2013G36)",
+ "items": [
+  [
+   "e01-ivory-classic.png",
+   "Ivory \u00b7 classic"
+  ],
+  [
+   "e02-black-gold.png",
+   "Black \u00b7 gold foil"
+  ],
+  [
+   "e03-cream-tonal-embroidery.png",
+   "Cream \u00b7 tonal embroidery"
+  ],
+  [
+   "e04-champagne-italic.png",
+   "Champagne \u00b7 italic"
+  ],
+  [
+   "e05-stone-lace-trim.png",
+   "Stone \u00b7 lace trim"
+  ],
+  [
+   "e06-navy-crest.png",
+   "Navy \u00b7 laurel crest"
+  ],
+  [
+   "e07-white-editorial.png",
+   "White \u00b7 editorial"
+  ],
+  [
+   "e08-sand-perfume-label.png",
+   "Sand \u00b7 perfume label"
+  ],
+  [
+   "e09-ivory-calligraphy.png",
+   "Ivory \u00b7 rose calligraphy"
+  ],
+  [
+   "e10-black-minimal.png",
+   "Black \u00b7 minimal"
+  ],
+  [
+   "e11-cream-gold-black.png",
+   "Cream \u00b7 black & gold"
+  ],
+  [
+   "e12-dove-logo-band.png",
+   "Dove \u00b7 logo band"
+  ]
+ ]
+}
