@@ -1,0 +1,57 @@
+{
+ "cols": 6,
+ "logoWidth": 900,
+ "prefix": "G",
+ "start": 13,
+ "subtitle": "\"I know where the milk is.\"  \u00b7  round 2  \u00b7  vote for your favourite (G13\u2013G24)",
+ "items": [
+  [
+   "n01-map-pin.png",
+   "Map pin"
+  ],
+  [
+   "n02-treasure-map.png",
+   "Treasure map \u00b7 X marks the spot"
+  ],
+  [
+   "n03-navigation.png",
+   "Navigation \u00b7 destination milk"
+  ],
+  [
+   "n04-hero-icon.png",
+   "Bra as hero"
+  ],
+  [
+   "n05-embroidered.png",
+   "Embroidered script"
+  ],
+  [
+   "n06-speech-bubble.png",
+   "Speech bubble"
+  ],
+  [
+   "n07-dairy-label.png",
+   "Vintage dairy label"
+  ],
+  [
+   "n08-heart-script.png",
+   "Heart script"
+  ],
+  [
+   "n09-arrow-pointing.png",
+   "Arrow pointing"
+  ],
+  [
+   "n10-milk-carton.png",
+   "Milk carton"
+  ],
+  [
+   "n11-sticker-badge.png",
+   "Sticker badge"
+  ],
+  [
+   "n12-stacked-bold.png",
+   "Bold stacked"
+  ]
+ ]
+}

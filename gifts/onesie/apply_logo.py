@@ -25,7 +25,7 @@ for f in files:
     band = ink[:, int(w * .18):int(w * .82)]
     rows = band.sum(1) > 3
     runs, i = [], 0
-    while i < int(h * .62):
+    while i < int(h * float(os.environ.get("YMAX", ".62"))):
         if rows[i]:
             j = i
             while j < h and rows[j]: j += 1
@@ -48,6 +48,11 @@ for f in files:
     a = np.asarray(lg)[:, :, 3].astype(float) / 255.0
     a = np.asarray(Image.fromarray((a * 255).astype(np.uint8)).filter(ImageFilter.GaussianBlur(0.5))).astype(float) / 255.0 * 0.96
     cx, cy = (x0 + x1) // 2, (y0 + y1) // 2
+    if os.environ.get("CENTER"):  # force a horizontally centred logo of CENTER×width
+        tw = int(float(os.environ["CENTER"]) * w); th = int(logo.height * tw / logo.width)
+        lg = logo.resize((tw, th), Image.LANCZOS)
+        a = np.asarray(Image.fromarray((np.asarray(lg)[:, :, 3]).astype(np.uint8)).filter(ImageFilter.GaussianBlur(0.5))).astype(float) / 255.0 * 0.96
+        cx = w // 2
     px, py = cx - tw // 2, cy - th // 2
     roi = clean[py:py + th, px:px + tw].astype(float)
     ink_rgb = np.array(color, float)
